@@ -934,6 +934,12 @@ filter: brightness(90%);
 /* media query 780px */
 
 @media (max-width:860px) {
+      #Contact-form .form form .con-btn {
+    width: 50%;
+    padding: 2px;
+    font-size: 20px;
+  
+}
       .peole-img{
         margin-left: 0;
     }
