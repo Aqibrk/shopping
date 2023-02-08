@@ -934,6 +934,9 @@ filter: brightness(90%);
 /* media query 780px */
 
 @media (max-width:860px) {
+      .peole-img{
+        margin-left: 0;
+    }
     .header {
         padding: 20px 50px;
     }
